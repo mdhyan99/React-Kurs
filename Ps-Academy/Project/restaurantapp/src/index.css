@@ -1,0 +1,99 @@
+.color-body {
+    background-color: #f8f8f8;
+    height: 100vh;
+}
+
+.font {
+    font-family: "Almarai", sans-serif;
+}
+.title {
+    color: #224f61;
+    font-family: Almarai;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 64px;
+}
+.underline {
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid #b45b35;
+}
+.btn1 {
+    color: #8c8c8c;
+    font-size: 15px;
+    font-family: Almarai;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+.btn1:hover {
+    font-family: Almarai;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 24px;
+    border-radius: 11px;
+    border: none;
+    background-color: #b45b35;
+}
+.img-item {
+    height: 180px;
+    width: 200px;
+    border-radius: 10px;
+}
+.item-description {
+    color: #8c8c8c;
+    font-family: Almarai;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+
+
+}
+.item-title{
+    color: #b45b35;
+    font-family: Almarai;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+.card-color {
+    background-color: #F8F8F8;
+}
+.item-price{
+    color: #845835;
+    font-family: Almarai;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+.btn-search {
+    color: #b45b35;
+    border-radius: 3px solid white;
+    border-radius: 8px;
+    background-color: white;
+}
+.btn-korb {
+    color: blue;
+    font-size: 20px;
+}
+.btn-search:hover {
+    color: white;
+    border-radius: 3px solid white;
+    border-radius: 8px;
+    background-color: #b45b35;
+}
+
+.brand-color {
+    color: #b45b35;
+}
+.add-btn{
+font-size: 35px;
+color: gray;
+border: none;
+background-color: white;
+}

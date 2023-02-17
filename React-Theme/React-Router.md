@@ -1,0 +1,12 @@
+## Router-Dom install
+- in terminal schreiben wir 
+- npm i react-router-dom
+- wir importieren 
+- import {BrowserRouter, Route ,Routes}  from 'react-router-dom'
+- wir schreiben innerhalb return 
+- <BrowserRouter>
+- <Routes> 
+-  <Route path="/" element={<Home />}> 
+- <Route path="/contact" element={<Contact />}> 
+- </Routes>
+- </BrowserRouter>

@@ -1,0 +1,111 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  
+}
+.res-name{
+  color: brown;
+}
+
+.icon-korb{
+  color: rgba(49, 49, 229, 0.947);
+  font-size: 25px;
+}
+.btn-search{
+  background-color: rgb(15, 15, 242);
+  margin-left: 5px;
+}
+.all{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: space-around;
+  color: coral;
+  cursor: pointer;
+
+}
+.korp-login{
+  display: flex;
+  justify-content: space-around;
+  color: blue;
+  font-size: 25px;
+  background-color: rgba(250, 235, 215, 0.384);
+  cursor: pointer;
+}
+/* mmnbb */
+.color-body {
+  background-color: #f8f8f8;
+  height: 100vh;
+}
+
+.card{
+  text-align: center;
+  padding: 30px;
+
+}
+
+
+.link {
+  text-decoration: none;
+  color: #b45b35bb;
+}
+.link:hover {
+  color: rgb(216, 26, 26);
+}
+.font {
+  font-family: "Almarai", sans-serif;
+}
+.title {
+  color: #224f61;
+  font-family: Almarai;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+}
+
+
+
+.img-item {
+  width: 80%;
+  height: 150px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+}
+.item-description {
+  color: #8c8c8c;
+  font-family: Almarai;
+  letter-spacing: 0;
+
+
+}
+.item-title{
+  color: #b45b35;
+  font-family: Almarai;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.card-color {
+  background-color: #F8F8F8;
+}
+.item-price{
+  color: #845835;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.add-btn{
+font-size: 35px;
+color: gray;
+border: none;
+background-color: white;
+}

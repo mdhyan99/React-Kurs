@@ -1,0 +1,47 @@
+.color-body{
+    background-color: #f8f8f8;
+}
+.font{
+    font-family: 'Almarai', sans-serif;
+    font-size: 20px;
+flex-direction: column;
+}
+.rectangle {
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+}
+.dataes-count {
+    color: #555555;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.btn-style{
+    width: 170px;
+    border-radius: 8px;
+    color: white;
+    background-color: #224f61;
+
+}
+.avatar{
+text-align: center;
+}
+.img-avatar{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+}
+.mt-0{
+    margin-top: 0;
+}
+span {
+    color: brown;
+    font-size: 30px;
+}
+.inpt{
+    border: 0.5px solid rgba(226, 94, 94, 0.194);
+    width: 100%;
+}
